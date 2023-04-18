@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Revit_Addin_Bootcamp_Radu_2022 - Command 1</Text>
+    <Description>Some description for Revit_Addin_Bootcamp_Radu_2022</Description>
+    <Assembly>Revit_Addin_Bootcamp_Radu_2022.dll</Assembly>
+    <FullClassName>Revit_Addin_Bootcamp_Radu_2022.Command1</FullClassName>
+    <ClientId>78ba76f9-90d4-4264-8d38-8cba43ff958c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Revit_Addin_Bootcamp_Radu_2022 - Command 2</Text>
+    <Description>Some description for Revit_Addin_Bootcamp_Radu_2022</Description>
+    <Assembly>Revit_Addin_Bootcamp_Radu_2022.dll</Assembly>
+    <FullClassName>Revit_Addin_Bootcamp_Radu_2022.Command2</FullClassName>
+    <ClientId>7ca3daea-a0ac-48b3-bd1d-1d3923f530a6</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Revit_Addin_Bootcamp_Radu_2022</Name>
+    <Assembly>Revit_Addin_Bootcamp_Radu_2022.dll</Assembly>
+    <FullClassName>Revit_Addin_Bootcamp_Radu_2022.App</FullClassName>
+    <ClientId>f1d15427-99a2-4619-8ea6-cf7b9412ddf5</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
